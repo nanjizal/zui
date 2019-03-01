@@ -1,0 +1,13 @@
+
+{
+    "name"         : "zui",
+    "url"          : "https://github.com/nanjizal/zui#zui",
+    "license"      : "MIT",
+    "tags"         : ["zu"],
+    "description"  : "zui",
+    "version"      : "0.0.1",
+    "releasenote"  : "See https://github.com/nanjizal/zui/blob/master/CHANGELOG.md",
+    "classPath"    : "",
+    "contributors" : ["lubos"],
+    "dependencies" : {}
+}
