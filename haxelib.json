@@ -7,7 +7,7 @@
     "description"  : "zui",
     "version"      : "0.0.1",
     "releasenote"  : "See https://github.com/nanjizal/zui/blob/master/CHANGELOG.md",
-    "classPath"    : "",
+    "classPath"    : "Sources",
     "contributors" : ["lubos"],
     "dependencies" : {}
 }
